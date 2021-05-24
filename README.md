@@ -26,3 +26,4 @@ Pre-compiled jars can be found on the [fabric maven](https://maven.fabricmc.net/
 ### On the command line
 
 `java -cp enigma.jar cuchaz.enigma.command.Main`
+
